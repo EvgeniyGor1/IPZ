@@ -1,0 +1,42 @@
+html {}
+
+body {}
+
+.title {
+	color: #424242;
+	font-size: 56px;
+	margin-left: 15%;
+	margin-top: 3.5%;
+}
+
+.list {
+	margin-left: 7.5%;
+	margin-right: 7.5%;
+	list-style-type: none;
+}
+
+.itemList {
+	font-size: 30px;
+}
+
+.itemList a {
+	color: #D56558;
+}
+
+
+.taskTitle {
+	margin-top: 4.5%;
+	text-align: center;
+	color: #424242;
+}
+
+.taskAnswer {
+	margin-left: 3.5%;
+	margin-right: 3.5%;
+	margin-bottom: 45px;
+	text-align: justify;
+}
+
+.taskToMenu {
+	padding-left: 85%;
+}
